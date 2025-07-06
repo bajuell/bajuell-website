@@ -1,0 +1,49 @@
+/* Gaya keseluruhan */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fff6f8;
+  color: #4b2c2c;
+}
+
+/* Header utama */
+header {
+  background-color: #eac5cb;
+  padding: 60px 20px;
+  text-align: center;
+  border-bottom: 3px solid #d59ba5;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2.8em;
+  color: #4b2c2c;
+  letter-spacing: 1px;
+}
+
+header p {
+  font-size: 1.1em;
+  margin-top: 10px;
+  color: #6d3b47;
+}
+
+/* Bahagian produk */
+.produk {
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.produk img {
+  width: 320px;
+  border-radius: 18px;
+  box-shadow: 0 6px 25px rgba(0, 0, 0, 0.1);
+}
+
+.produk h2 {
+  margin-top: 25px;
+  font-size: 1.6em;
+  color: #732d3e;
+}
+
+/
